@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.iws
+*.iml
+*.ipr
+.project
+logs/
+ms-icp-user-api/target/
+.settings
