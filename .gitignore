@@ -6,5 +6,4 @@
 *.ipr
 .project
 logs/
-ms-icp-user-api/target/
 .settings
